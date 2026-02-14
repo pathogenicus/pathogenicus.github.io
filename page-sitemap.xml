@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://path.ogenic.us/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://pathogenicus.github.io/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://path.ogenic.us/</loc>
+		<loc>https://pathogenicus.github.io/</loc>
 		<lastmod>2023-03-29T03:16:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0.png</image:loc>
+			<image:loc>https://pathogenicus.github.io/wp-content/uploads/2023/03/out-0.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/meanwhile.png</image:loc>
+			<image:loc>https://pathogenicus.github.io/wp-content/uploads/2023/03/meanwhile.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://path.ogenic.us/sitemap/</loc>
+		<loc>https://pathogenicus.github.io/sitemap/</loc>
 		<lastmod>2023-03-21T22:37:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://path.ogenic.us/policy/</loc>
+		<loc>https://pathogenicus.github.io/policy/</loc>
 		<lastmod>2023-03-22T00:58:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://path.ogenic.us/narratives/</loc>
+		<loc>https://pathogenicus.github.io/narratives/</loc>
 		<lastmod>2023-03-29T02:36:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/narratives.png</image:loc>
+			<image:loc>https://pathogenicus.github.io/wp-content/uploads/2023/03/narratives.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/pathogenicus-of-shadow.png</image:loc>
+			<image:loc>https://pathogenicus.github.io/wp-content/uploads/2023/03/pathogenicus-of-shadow.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

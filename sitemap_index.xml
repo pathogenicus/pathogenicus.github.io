@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://path.ogenic.us/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://pathogenicus.github.io/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://path.ogenic.us/post-sitemap.xml</loc>
+		<loc>https://pathogenicus.github.io/post-sitemap.xml</loc>
 		<lastmod>2023-04-01T13:46:28+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://path.ogenic.us/page-sitemap.xml</loc>
+		<loc>https://pathogenicus.github.io/page-sitemap.xml</loc>
 		<lastmod>2023-03-29T03:16:22+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://path.ogenic.us/category-sitemap.xml</loc>
+		<loc>https://pathogenicus.github.io/category-sitemap.xml</loc>
 		<lastmod>2023-04-01T13:46:28+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://path.ogenic.us/author-sitemap.xml</loc>
+		<loc>https://pathogenicus.github.io/author-sitemap.xml</loc>
 		<lastmod>2023-03-21T20:39:19+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
